@@ -1,5 +1,10 @@
 # Producer Vendor Behavior System
 
+<img width="297" height="291" alt="Ekran görüntüsü 2026-04-09 174300" src="https://github.com/user-attachments/assets/dcae94d0-7b86-441b-ae26-181940228a92" />
+<img width="287" height="261" alt="Ekran görüntüsü 2026-04-09 174206" src="https://github.com/user-attachments/assets/a5d23580-b928-43ce-afdf-252fa0c3547a" />
+<img width="267" height="253" alt="image" src="https://github.com/user-attachments/assets/48d499a4-ed04-4361-8562-540d421cc2de" />
+
+
 A reusable, configurable system for vendor NPCs that perform production tasks with customizable behavior.
 
 ## Overview
