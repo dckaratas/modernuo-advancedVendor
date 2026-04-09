@@ -18,7 +18,7 @@ Instead of duplicating this logic across multiple vendor types, you can:
 - **ProducerVendorBehavior.cs** - The reusable behavior component (use as-is for all vendor types)
 
 ### Example Implementations
-- **AdvancedBlacksmith.cs** - Original implementation, now using ProducerVendorBehavior
+- **AdvancedBlacksmith.cs** -Example with forge&anvil detection
 - **AdvancedWeaver.cs** - Example with loom detection
 - **AdvancedCarpenter.cs** - Example with workbench detection
 
@@ -224,13 +224,6 @@ private static bool IsMyTool(Item item)
     return item.ItemID is 4015 or 4016;
 }
 ```
-
-## Integration with Existing Vendors
-
-This system was originally implemented for `AdvancedBlacksmith`. The refactoring reduced the class from ~270 lines to ~100 lines by moving all production logic to `ProducerVendorBehavior`.
-
-**Before:** Complex timer management, phase tracking, pathfinding logic mixed with vendor code.
-**After:** Clean vendor class with just tool detection and phrase definitions.
 
 ## API Reference
 
