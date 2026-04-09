@@ -1,10 +1,9 @@
 # Producer Vendor Behavior System
 
-<img width="300" height="300" alt="ex1" src="https://github.com/user-attachments/assets/dcae94d0-7b86-441b-ae26-181940228a92" />
+<img width="300" height="300" alt="ex4" src="https://github.com/user-attachments/assets/a5252caa-409f-4ef1-b8b2-529178d1d72a" />
 <img width="300" height="300" alt="ex2" src="https://github.com/user-attachments/assets/a5d23580-b928-43ce-afdf-252fa0c3547a" />
 <img width="300" height="300" alt="ex3" src="https://github.com/user-attachments/assets/48d499a4-ed04-4361-8562-540d421cc2de" />
-<img width="300" height="300" alt="ex4" src="https://github.com/user-attachments/assets/a5252caa-409f-4ef1-b8b2-529178d1d72a" />
-
+<img width="300" height="300" alt="ex1" src="https://github.com/user-attachments/assets/92b0eed3-5778-4bce-9701-476ada371f25" />
 
 A reusable, configurable system for vendor NPCs that perform production tasks with customizable behavior.
 
